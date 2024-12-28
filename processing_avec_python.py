@@ -1,3 +1,5 @@
+from pyprocessing import *
+
 t = 0
 
 def setup():
